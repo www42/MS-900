@@ -11,12 +11,21 @@
 [MS-900 Exam](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/)
 
 
+## Labs
+
+[Skillable (Register with Training Key)](https://brainymotion.learnondemand.net/User/Login)
+
+
+[MS-100 Labs Instructions](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/tree/master/Instructions/Labs)
+
+
 ## Useful links
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+[Microsoft 365 Licensing by Aaron Dinnage](https://m365maps.com/)
 
 
 
