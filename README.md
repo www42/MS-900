@@ -1,5 +1,11 @@
 # MS-900 Microsoft 365 Fundamentals
 
+[Feedback (Metrics that Matter)](https://www.metricsthatmatter.com/url/u.aspx?42DF24C74195307608)
+
+[Claim your badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=L7P82Z&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+---
+
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
 [Learning Path Describe Microsoft 365 apps and services](https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/)
