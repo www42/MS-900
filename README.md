@@ -27,6 +27,8 @@
 
 [Microsoft 365 Licensing by Aaron Dinnage](https://m365maps.com/)
 
+[Least privileged roles by task in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
+
 
 
 ##  Your Trainer
