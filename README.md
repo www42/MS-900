@@ -1,7 +1,11 @@
 # MS-900 Microsoft 365 Fundamentals
 
 
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?CB2CBEE3B198731287)
 
+[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=P83422&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+---
 
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
@@ -21,18 +25,13 @@
 
 [MS-100 Labs Instructions](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/tree/master/Instructions/Labs)
 
-| Name               | Training Key      |
-| ------------------ | ----------------- |
-| Mirko Kargus       |  1F95B8F0DE474103 |
-| Marco Dombois	     |  20E39ED5C09447BA |
-| Dominik Martin	 |  235A3D7CFABC4999 |
-| David Müller	     |  2A9929F53F7049F1 |
-| Michael Gaenshirt  |  36E5727124F744DD |
-| Moritz Heyer       |  4E5221E58BF84971 |
-| Johann Gotzler     |  59E49B6CFD5649B9 |
-| Wissem Fathallah   |  744F6AC0D47C4509 |
-| Giuseppe Lombardo	 |  8276E57B89924680 |
-| Artur Krasowski	 |  CFD1016B61FB439B |
+
+## Youtube channels
+[John Savill](https://www.youtube.com/@NTFAQGuy)
+
+[Thomas Maurer](https://www.youtube.com/@Thomas_Maurer)
+
+[Tom Wechsler](https://www.youtube.com/@tomvideo2brain)
 
 
 ## Useful links
