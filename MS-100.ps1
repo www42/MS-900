@@ -35,7 +35,7 @@ $pattiF = Get-AzureADUser -ObjectId "PattiF@$domain"
 # Role 'Service Support Administrator' is still not enabled from it's template.
 # Get all enabled roles (only few)
 Get-AzureADDirectoryrole 
-# Get all role templates (99)
+# Get all role templates (102)
 Get-AzureADDirectoryRoleTemplate
 Get-AzureADDirectoryRoleTemplate | Measure-Object | % count
 $serviceSupportRoleTemplate = Get-AzureADDirectoryRoleTemplate | ? DisplayName -eq 'Service Support Administrator'
