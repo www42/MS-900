@@ -1,26 +1,16 @@
 # MS-900 Microsoft 365 Fundamentals
 
 
-| Name                    | Code
-| ----------------------- | -------------
-| Mirko       Kargus      | MSA3585B7F0B
-| Marco       Dombois     | MSA358613743
-| Dominik     Martin      | MSA358645E16
-| David       Müller      | MSA358852F42
-| Michael     Gaenshirt   | MSA35899853A
-| Moritz      Heyer       | MSA35915885B
-| Johann      Gotzler     | MSA3591E6F72
-| Wissem      Fathallah   | MSA35963594F
-| Giuseppe    Lombardo    | MSA3597E9561
-| Artur       Krasowski   | MSA3599A335F
-
----
 
 [Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?CB2CBEE3B198731287)
 
 [Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=P83422&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
+
+[Testfragen](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
+
+--
 
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
