@@ -8,6 +8,10 @@
 
 ---
 
+[Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
+
+---
+
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
 [Learning Path Describe Microsoft 365 apps and services](https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/)
