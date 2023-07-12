@@ -49,6 +49,11 @@
 
 [Least privileged roles by task in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
 
+[Explore the available licensing and management options](https://learn.microsoft.com/en-us/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options)
+
+[Describe how Microsoft Teams promotes collaboration and enhances teamwork](https://learn.microsoft.com/en-us/training/modules/describe-collaboration-solutions-microsoft-365/3-workloads-teams-value-they-provide)
+
+[Microsoft Teams PSTN connectivity options](https://learn.microsoft.com/en-us/microsoftteams/pstn-connectivity)
 
 
 ##  Your Trainer
