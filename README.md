@@ -1,12 +1,5 @@
 # MS-900 Microsoft 365 Fundamentals
 
----
-
-[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?44871D2C3199527483)
-
-[Claim your Badge!](https://learn.microsoft.com/users/me/achievements?redeem=LLQ7LD&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
 
 [Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
 
