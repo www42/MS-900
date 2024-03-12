@@ -1,10 +1,5 @@
 # MS-900 Microsoft 365 Fundamentals
 
-
-[Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
-
----
-
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
 [Learning Path Describe Microsoft 365 apps and services](https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/)
@@ -13,15 +8,19 @@
 
 [Learning Path Describe Microsoft 365 pricing, licensing, and support](https://learn.microsoft.com/en-us/training/paths/m365-licensing-service-support/)
 
+
+## Exam MS-900
+
 [MS-900 Exam](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/)
+
+[Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
+
 
 
 ## Labs
 
 [Skillable (Register with Training Key)](https://brainymotion.learnondemand.net/User/Login)
 
-
-[MS-100 Labs Instructions](https://github.com/MicrosoftLearning/MS-100T00-Microsoft-365-Identity-and-Services/tree/master/Instructions/Labs)
 
 
 ## Youtube channels
