@@ -23,6 +23,15 @@
 [Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
 
 
+## New: Applied Skills
+
+[Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
+
+[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
+
+➡️[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC) ⬅️
+
+
 
 ## Labs
 
