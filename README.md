@@ -1,11 +1,5 @@
 # MS-900 Microsoft 365 Fundamentals
 
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?881537DF2208183694)
-
-[Grab your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VJPX6Q)
-
-
----
 
 [Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
