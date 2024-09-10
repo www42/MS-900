@@ -30,7 +30,7 @@
 ## Labs
 
 <!-- [Skillable (Register with Training Key)](https://brainymotion.learnondemand.net/User/Login) -->
-[Go Deploay](https://lms.godeploy.it)
+[Go Deploy](https://lms.godeploy.it)
 
 
 
