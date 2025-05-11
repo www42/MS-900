@@ -1,74 +1,98 @@
+[LP1]: https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/m365-security-compliance-capabilities/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/m365-licensing-service-support/
+
+
 # MS-900 Microsoft 365 Fundamentals
 
-
-[Learning Path Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-
-[Learning Path Describe Microsoft 365 apps and services](https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/)
-
-[Learning Path Describe Microsoft 365 security and compliance capabilities](https://learn.microsoft.com/en-us/training/paths/m365-security-compliance-capabilities/)
-
-[Learning Path Describe Microsoft 365 pricing, licensing, and support](https://learn.microsoft.com/en-us/training/paths/m365-licensing-service-support/)
+## Learning Paths
 
 
-## Exam MS-900
-
-[MS-900 Exam](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/)
-
-[Übungsfragen MS-900](https://learn.microsoft.com/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
-
-
-## New: Applied Skills
-
-[Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
-
-[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
-
-➡️[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC) ⬅️
-
+- Learning Path [Describe cloud concepts][LP1]
+- Learning Path [Describe Microsoft 365 apps and services][LP2]
+- Learning Path [Describe Microsoft 365 security and compliance capabilities][LP3]
+- Learning Path [Describe Microsoft 365 pricing, licensing, and support][LP4]
 
 
 ## Labs
 
-<!-- [Skillable (Register with Training Key)](https://brainymotion.learnondemand.net/User/Login) -->
 [Go Deploy](https://lms.godeploy.it)
 
 
+## Certification
 
-## Youtube channels
-[John Savill](https://www.youtube.com/@NTFAQGuy)
-
-[Thomas Maurer](https://www.youtube.com/@Thomas_Maurer)
-
-[Tom Wechsler](https://www.youtube.com/@tomvideo2brain)
+|   |   |
+| - | - |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/) |
 
 
-## Useful links
+[Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/practice/assessment?assessment-type=practice&assessmentId=50&practice-assessment-type=certification)
 
-[Microsoft Certification Poster](https://aka.ms/traincertposter)
+<br>
 
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[Microsoft 365 Licensing by Aaron Dinnage](https://m365maps.com/)
 
-[Least privileged roles by task in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
+## New: Microsoft Applied Skills
 
-[Explore the available licensing and management options](https://learn.microsoft.com/en-us/training/modules/identify-licensing-options-available-microsoft-365/4-license-management-options)
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
-[Describe how Microsoft Teams promotes collaboration and enhances teamwork](https://learn.microsoft.com/en-us/training/modules/describe-collaboration-solutions-microsoft-365/3-workloads-teams-value-they-provide)
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-[Microsoft Teams PSTN connectivity options](https://learn.microsoft.com/en-us/microsoftteams/pstn-connectivity)
 
+<br>
+
+## Microsoft Learn
+
+[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
+
+[Microsoft Learn](https://learn.microsoft.com)
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
+
+[How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
+
+<br>
+
+## Useful Links
+
+[Microsoft Build 2025](https://build.microsoft.com/en-US/home)
+
+[Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
+
+[Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/?view=o365-worldwide)
+
+[Azure documentation](https://docs.microsoft.com/en-us/azure/)
+
+[Microsoft Mechanics on YouTube](https://www.youtube.com/c/MicrosoftMechanicsSeries)
+
+
+
+
+<br>
 
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
-<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"><img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
+<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
+<a href="https://www.credly.com/badges/2a1b8f81-8609-4e8f-85d7-dad4f21f84f6/public_url"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-ai-practitioner.png" width=100></a>
+<a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/C27BF4B9C4441987?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/D285AC578545317A?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/218CE025B3002579?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/603D525F71C003A5?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=MS-900)
+
+[My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
+
+[My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
+
+[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
@@ -76,7 +100,7 @@
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
 
-[My Blog](https://blog.az.training)
+
 
 ---
 
