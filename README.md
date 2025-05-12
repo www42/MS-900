@@ -58,6 +58,8 @@
 
 ## Useful Links
 
+[techConference Vienna 03.-04. Juni 2025](https://techconference.at/)
+
 [Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
