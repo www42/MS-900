@@ -58,6 +58,10 @@
 
 ## Useful Links
 
+[Azure PowerShell documentation](https://learn.microsoft.com/en-us/powershell/azure/?view=azps-13.5.0)
+
+[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
+
 [techConference Vienna 03.-04. Juni 2025](https://techconference.at/)
 
 [Microsoft Build 2025](https://build.microsoft.com/en-US/home)
