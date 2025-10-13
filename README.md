@@ -17,7 +17,19 @@
 
 ## Labs
 
-[Go Deploy](https://lms.godeploy.it)
+<!-- [Lab environment Skillable](https://) --> 
+[Lab environment Skillable](https://https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+<!-- [Go Deploy](https://lms.godeploy.it) -->
+
+<!-- [GitHub Repo Microsoft Learn](https://github.com/foo) -->
+
+<!-- [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo) -->
+
+<br>
 
 
 ## Certification
@@ -37,10 +49,19 @@
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
+[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
+
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
+<br>
+
+
+## Very New: Microsoft Learn for Github
+
+[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
 <br>
+
 
 ## Microsoft Learn
 
@@ -62,8 +83,6 @@
 
 [Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
 
-[techConference Vienna 03.-04. Juni 2025](https://techconference.at/)
-
 [Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
@@ -79,7 +98,7 @@
 
 <br>
 
-##  Your Trainer
+## Your Trainer
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"><img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
@@ -92,13 +111,12 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/D285AC578545317A?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/218CE025B3002579?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/603D525F71C003A5?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/FF81C50EA1B80D11?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
 
 
 [My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
 [My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
-
-[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
