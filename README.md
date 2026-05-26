@@ -26,10 +26,13 @@
 
 |   |   |
 | - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/) |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft 365 Certified: Fundamentals (Retired 😢)](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/) |
 
-
+<!--
 [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/practice/assessment?assessment-type=practice&assessmentId=50&practice-assessment-type=certification)
+-->
+
+➡️ What about [Course AB-900: Introduction to Microsoft 365 and AI administration](https://learn.microsoft.com/en-us/training/courses/ab-900t00) ⬅️
 
 <br>
 
@@ -65,6 +68,10 @@
 
 
 ## Useful Links 🤿
+
+[AI Skills Fest June 8 - 12](https://aiskillsnavigator.microsoft.com/events/AISF2026)
+
+[Microsoft Build June 2 - 3](https://build.microsoft.com/en-US/home)
 
 [Microsoft 365 documentation](https://learn.microsoft.com/en-us/microsoft-365/?view=o365-worldwide)
 
